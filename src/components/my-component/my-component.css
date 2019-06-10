@@ -1,0 +1,16 @@
+main {
+  font-size: var(--font-size);
+}
+
+button {
+  background-color: #fff;
+  color: #222;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  padding: 15px;
+  cursor: pointer;
+}
+
+button.primary {
+  background-color: var(--color-primary);
+}
